@@ -40,32 +40,49 @@
 
 // -------------------------------------------------------
 
-let tabibSkill= "React Js"
-let hasExperience= false
+// let tabibSkill= "React Js"
+// let hasExperience= false
 
-if(tabibSkill === "Node Js" && hasExperience === true){
-    console.log("Tabib has been selected as a Senior BackEnd Developer");
-} 
-else if(tabibSkill === "Node Js" || hasExperience === true){
-    console.log("Tabib has been selected as a Junior BackEnd Developer");
-}
-else{
-    console.log("Tabib needs to learn Node Js");
-}
+// if(tabibSkill === "Node Js" && hasExperience === true){
+//     console.log("Tabib has been selected as a Senior BackEnd Developer");
+// } 
+// else if(tabibSkill === "Node Js" || hasExperience === true){
+//     console.log("Tabib has been selected as a Junior BackEnd Developer");
+// }
+// else{
+//     console.log("Tabib needs to learn Node Js");
+// }
 
 // ----------------------------------------------------------
 
 // *Modern Ternary Operator------->
+
 // let tabibAge=21;
 
 // let status = (tabibAge>=18) ? "Adult" : "Child";
 // console.log(status);
 
+// ------------------------------------------------------------
 
 // *Functions------->
+
 // function sayWelcome(){
-//     console.log("Welcome, Tabib! to the world of coding");
+//     console.log("Welcome, Tabib! to the world of coding");  
 // }
 // sayWelcome();
 
-// --------------------------------------------------------------
+// -------------------------------------------------------------
+
+// function getId(name){
+//     console.log(`Hello ${name}, What's up Bro?`);
+// }
+// getId("Tabib");
+
+// -------------------------------------------------------------
+
+function addNumber(num1, num2){
+    let result= num1+num2;
+    return result;
+}
+let totalSum = addNumber(10, 20);
+console.log(totalSum);
