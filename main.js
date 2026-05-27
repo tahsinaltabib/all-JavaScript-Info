@@ -8,14 +8,14 @@
 // console.log(tabibDetails.name);
 // console.log(tabibDetails.Skills);
 
-
+// --------------------------------------------------
 
 // let tabibAge= 21;
 // let tabibSkill= "NodeJs";
 
 // console.log(tabibSkill === "NodeJs" );
 
-
+// -----------------------------------------------------
 
 // let tabibScore= 39
 
@@ -38,7 +38,7 @@
 //     console.log("Tabib, You Fail");
 // }
 
-
+// -------------------------------------------------------
 
 let tabibSkill= "React Js"
 let hasExperience= false
@@ -52,3 +52,20 @@ else if(tabibSkill === "Node Js" || hasExperience === true){
 else{
     console.log("Tabib needs to learn Node Js");
 }
+
+// ----------------------------------------------------------
+
+// *Modern Ternary Operator------->
+// let tabibAge=21;
+
+// let status = (tabibAge>=18) ? "Adult" : "Child";
+// console.log(status);
+
+
+// *Functions------->
+// function sayWelcome(){
+//     console.log("Welcome, Tabib! to the world of coding");
+// }
+// sayWelcome();
+
+// --------------------------------------------------------------
