@@ -80,9 +80,15 @@
 
 // -------------------------------------------------------------
 
-function addNumber(num1, num2){
-    let result= num1+num2;
-    return result;
-}
-let totalSum = addNumber(10, 20);
-console.log(totalSum);
+// function addNumber(num1, num2){
+//     let result= num1+num2;
+//     return result;
+// }
+// let totalSum = addNumber(120, 20);
+// console.log(totalSum);
+
+// -------------------------------------------------------------
+
+const getData=(Offday)=>{
+    return
+};
