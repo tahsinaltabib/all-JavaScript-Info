@@ -89,6 +89,9 @@
 
 // -------------------------------------------------------------
 
-const getData=(Offday)=>{
-    return
+const getData=(offday)=>{
+    return (offday)
 };
+let myResult= getData("Today's my Offday");
+
+console.log(myResult);
