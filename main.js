@@ -126,6 +126,19 @@
 
 // ----------------------------------------------------------------
 
+// const mySkills=["JavaScript","React Js","Next Js","Node Js","TypeScript"];
+// let totalSkills=mySkills.length;
+// console.log(totalSkills);
+
+
+// const myCart = ["Shirt", "Pant", "Watch"];
+// myCart.push("Shoes");
+// console.log(myCart.length);
+
+// -------------------------------------------------------------
+
+
+
 
 
 
