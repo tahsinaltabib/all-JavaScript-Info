@@ -89,9 +89,43 @@
 
 // -------------------------------------------------------------
 
-const getData=(offday)=>{
-    return (offday)
-};
-let myResult= getData("Today's my Offday");
+// const getData=(offday)=>{
+//     return (offday)
+// };
+// let myResult= getData("Today's my Offday");
+// console.log(myResult);
 
-console.log(myResult);
+// -----------------------------------------------------------
+
+// const mySkills=["HTML","CSS","JavaScript","React","Node"];
+// console.log(mySkills[3]);
+
+// ----------------------------------------------------------
+
+// const mySkills=["JavaScript","React Js","Node Js"];
+// mySkills.push=("Express Js");
+// console.log(mySkills);
+
+// ----------------------------------------------------
+
+// const mySkills=["HTML","CSS", "JavaScprit","React Js","Node Js"];
+// mySkills.pop();
+// console.log(mySkills);
+
+// --------------------------------------------------------------
+
+// const mySkills=["Css","JavaScript","React Js","Node Js"]
+// mySkills.unshift("Html");
+// console.log(mySkills);
+
+// -----------------------------------------------------------
+
+// const mySkills=["Html","HTML","CSS", "JavaScprit","React Js","Node Js"]
+// mySkills.shift();
+// console.log(mySkills);
+
+// ----------------------------------------------------------------
+
+
+
+
