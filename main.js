@@ -1,9 +1,9 @@
-// const tabibDetails={
-//     name: "Tahsin Al Tabib",
-//     age: 21,
-//     isCoder: true,
-//     Skills: ["Javascript, React Js, Node Js"]
-// };
+const tabibDetails={
+    name: "Tahsin Al Tabib",
+    age: 21,
+    isCoder: true,
+    Skills: ["Javascript, React Js, Node Js"]
+};
 
 // console.log(tabibDetails.name);
 // console.log(tabibDetails.Skills);
