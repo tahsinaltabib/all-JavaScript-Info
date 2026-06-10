@@ -1,4 +1,4 @@
-# 📘 Lesson 01 — JavaScript: ইতিহাস, Engine এবং কীভাবে কাজ করে
+# 📘 Lesson — JavaScript: ইতিহাস, Engine এবং কীভাবে কাজ করে
 
 > **Curriculum:** JavaScript → Backend Engineer (Node.js)
 > **Level:** Absolute Beginner → Senior Engineer
@@ -858,3 +858,72 @@ Staff Level:
 
 *🎯 প্রতিটি Lesson-এর পর এই Interview Ladder practice করো।*
 *📅 Week-এ একদিন mock interview দাও — নিজেই প্রশ্ন করো, নিজেই উত্তর দাও।*
+
+
+
+========================================================================
+========================================================================
+
+
+===========================================
+Lesson : JavaScript Introduction (Lesson 1)
+===========================================
+
+Important Points:
+- JavaScript একটি Dynamic, Interpreted Language
+- Browser + Server (Node.js) দুই জায়গায় চলে
+- V8 Engine JS কে Machine Code এ convert করে
+- Case Sensitive — Console ≠ console
+- Ryan Dahl 2009 সালে Node.js বানান
+
+Definition:
+JavaScript = একটি Programming Language যা
+Web এর behavior তৈরি করে।
+
+Syntax:
+console.log("যা দেখাতে চাও");
+
+Example:
+console.log("Hello, World!");
+
+Mistakes:
+❌ Console.log() → ✅ console.log()
+❌ console.log("Hello" → ✅ console.log("Hello")
+
+Shortcut Tips:
+- VSCode এ JS file চালাতে: node filename.js
+- Comment: // এক লাইন, /* */ একাধিক লাইন
+
+Interview Tips:
+- JS Interpreted কিন্তু V8 JIT use করে
+- Node.js = V8 + libuv + built-in modules
+- Brendan Eich, 1995, 10 দিনে তৈরি
+
+Summary:
+JavaScript দিয়ে Frontend + Backend দুটোই করা যায়।
+Node.js হলো Server-side JavaScript runtime।
+===========================================
+
+
+Q1: JavaScript কী?
+
+JavaScript একটি High-Level, Interpreted, Dynamic Programming Language যা Browser এবং Server (Node.js) উভয় জায়গায় চলে।
+
+Q2: JavaScript কি Compiled নাকি Interpreted?
+
+JavaScript Interpreted — কিন্তু আধুনিক Engines (V8) JIT (Just-In-Time) Compilation ব্যবহার করে, তাই এটি দ্রুত।
+
+Q3: Node.js কী?
+
+Node.js হলো একটি Runtime Environment যা V8 Engine ব্যবহার করে Server-এ JavaScript চালায়।
+
+Q4: V8 Engine কী করে?
+
+V8 JavaScript কোডকে Machine Code-এ Convert করে যা Computer সরাসরি বুঝতে পারে।
+
+Q5: JavaScript কে তৈরি করেছেন?
+
+1995 সালে Brendan Eich মাত্র 10 দিনে JavaScript তৈরি করেছিলেন। তখন নাম ছিল Mocha, পরে LiveScript, তারপর JavaScript।
+
+========================================================================
+
